@@ -4,4 +4,6 @@
   </a>
 </div>
 
+![](https://raw.githubusercontent.com/Lade-Doing/Lade-Doing/output/github-contribution-grid-snake-dark.svg)
+
 
